@@ -1,0 +1,26 @@
+name: MagicLegend
+main: magicLegend.MagicLegend
+version: 1.0
+author: AG3
+commands:
+  nclass:
+    description: To choice your class
+    usage: /nclass
+  nlevel:
+    description: To know your class and level
+    usage: /nlevel
+  nlanguage:
+    description: To change your language
+    usage: /nlanguage <English|French>
+  nhelp:
+    description: MagicLegend help
+    usage: /nhelp
+  nstuff:
+    description: To get your stuff
+    usage: /nstuff
+  nworld:
+    description: To set MagicLegend enable or disabled in this world
+    usage: /nworld <True/False>
+  nlocation:
+    description: To know if the plugin is actived at your location
+    usage: /nlocation
